@@ -3,6 +3,7 @@
     "dev": "nodemon index.js",
     "dev2": "nodemon index2.js",
     "dev3": "node --watch express.js",
+    "start": "node new.js",
     "dev4": "node --watch new.js"
   },
   "devDependencies": {
